@@ -35,3 +35,5 @@ body{
 .navbar-dark {
      background-color: #512DA8;
 }
+.top-buffer { margin-top:20px; }
+.ui-grid-solo { text-align:center; }
