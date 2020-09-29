@@ -37,3 +37,7 @@ body{
 }
 .top-buffer { margin-top:20px; }
 .ui-grid-solo { text-align:center; }
+.padd-bottom
+{
+    margin-bottom: 25px;
+}
